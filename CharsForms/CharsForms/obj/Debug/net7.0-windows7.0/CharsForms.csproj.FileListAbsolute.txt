@@ -1,0 +1,15 @@
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.csproj.AssemblyReference.cache
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form1MDI.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form2Parent.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form2WinInheritence.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form3Tools.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form4AdvancedTools.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form5DBConnection.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form6DBView.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Form7LinqToSql.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.Properties.Resources.resources
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.csproj.GenerateResource.cache
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.AssemblyInfoInputs.cache
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.AssemblyInfo.cs
+Z:\CSharpRepos\CharsForms\CharsForms\obj\Debug\net7.0-windows7.0\CharsForms.csproj.CoreCompileInputs.cache

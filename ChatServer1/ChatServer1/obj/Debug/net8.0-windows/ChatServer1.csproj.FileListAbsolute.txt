@@ -1,0 +1,16 @@
+Z:\CSharpRepos\ChatServer1\ChatServer1\bin\Debug\net8.0-windows\ChatServer1.exe
+Z:\CSharpRepos\ChatServer1\ChatServer1\bin\Debug\net8.0-windows\ChatServer1.deps.json
+Z:\CSharpRepos\ChatServer1\ChatServer1\bin\Debug\net8.0-windows\ChatServer1.runtimeconfig.json
+Z:\CSharpRepos\ChatServer1\ChatServer1\bin\Debug\net8.0-windows\ChatServer1.dll
+Z:\CSharpRepos\ChatServer1\ChatServer1\bin\Debug\net8.0-windows\ChatServer1.pdb
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.Form1.resources
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.csproj.GenerateResource.cache
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.AssemblyInfoInputs.cache
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.AssemblyInfo.cs
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.csproj.CoreCompileInputs.cache
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.dll
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\refint\ChatServer1.dll
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.pdb
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ChatServer1.genruntimeconfig.cache
+Z:\CSharpRepos\ChatServer1\ChatServer1\obj\Debug\net8.0-windows\ref\ChatServer1.dll

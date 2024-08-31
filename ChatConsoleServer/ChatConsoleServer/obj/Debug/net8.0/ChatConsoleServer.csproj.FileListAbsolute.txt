@@ -1,0 +1,14 @@
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\bin\Debug\net8.0\ChatConsoleServer.exe
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\bin\Debug\net8.0\ChatConsoleServer.deps.json
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\bin\Debug\net8.0\ChatConsoleServer.runtimeconfig.json
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\bin\Debug\net8.0\ChatConsoleServer.dll
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\bin\Debug\net8.0\ChatConsoleServer.pdb
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.AssemblyInfoInputs.cache
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.AssemblyInfo.cs
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.csproj.CoreCompileInputs.cache
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.dll
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\refint\ChatConsoleServer.dll
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.pdb
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ChatConsoleServer.genruntimeconfig.cache
+Z:\CSharpRepos\ChatConsoleServer\ChatConsoleServer\obj\Debug\net8.0\ref\ChatConsoleServer.dll

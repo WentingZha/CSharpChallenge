@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form10GDI+LineChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form11GDI+PieChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form12GDI+BarChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form13Printer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form14Network.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form14NetworkClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form15P2PChat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form16Registry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form17Thread.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2Parent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1MDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2WinInheritence.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3Tools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4AdvancedTools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form5DBConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form6DBView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form7Linq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form8SyntaxAdvanced.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form9IOStream.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

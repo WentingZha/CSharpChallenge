@@ -1,0 +1,22 @@
+<Employees>
+	<Employee ID="001">
+		<Name>ZWT</Name>
+		<Gender>Female</Gender>
+		<Salary>6000</Salary>
+	</Employee>
+	<Employee ID="002">
+		<Name>GLZ</Name>
+		<Gender>Female</Gender>
+		<Salary>10000</Salary>
+	</Employee>
+	<Employee ID="003">
+		<Name>ZWM</Name>
+		<Gender>Male</Gender>
+		<Salary>11000</Salary>
+	</Employee>
+	<Employee ID="004">
+		<Name>HWH</Name>
+		<Gender>Male</Gender>
+		<Salary>20000</Salary>
+	</Employee>
+</Employees>

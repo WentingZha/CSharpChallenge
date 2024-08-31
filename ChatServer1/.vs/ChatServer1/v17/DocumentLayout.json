@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\CSharpRepos\\ChatServer1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|z:\\csharprepos\\chatserver1\\chatserver1\\chatclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|solutionrelative:chatserver1\\chatclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|z:\\csharprepos\\chatserver1\\chatserver1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|solutionrelative:chatserver1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|Z:\\CSharpRepos\\ChatServer1\\chatserver1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|solutionrelative:chatserver1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|z:\\csharprepos\\chatserver1\\chatserver1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948A9C03-C84F-4BBF-876E-15CF41D29A7D}|ChatServer1\\ChatServer1.csproj|solutionrelative:chatserver1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatClass.cs",
+              "DocumentMoniker": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\ChatClass.cs",
+              "RelativeDocumentMoniker": "ChatServer1\\ChatClass.cs",
+              "ToolTip": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\ChatClass.cs",
+              "RelativeToolTip": "ChatServer1\\ChatClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T01:54:34.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ChatServer1\\Form1.Designer.cs",
+              "ToolTip": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\Form1.Designer.cs",
+              "RelativeToolTip": "ChatServer1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:35:29.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatServer1\\Form1.cs",
+              "ToolTip": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\Form1.cs",
+              "RelativeToolTip": "ChatServer1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:35:34.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatServer1\\Form1.cs",
+              "ToolTip": "Z:\\CSharpRepos\\ChatServer1\\ChatServer1\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatServer1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:33:49.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
